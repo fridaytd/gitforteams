@@ -1,6 +1,6 @@
 {
     "name": "app",
-    "version": "4.1.0-RC.1",
+    "version": "4.1.0-RC.2",
     "description": "",
     "main": "index.js",
     "scripts": {
